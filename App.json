@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Cardápio Digital",
+    "slug": "cardapio-digital",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.seunegocio.cardapiodigital"
+    },
+    "android": {
+      "package": "com.seunegocio.cardapiodigital"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
